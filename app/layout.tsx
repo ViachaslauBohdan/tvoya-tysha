@@ -73,9 +73,9 @@ export const metadata: Metadata = {
     'distribution': 'global',
   },
   icons: {
-    icon: '/placeholder-logo.png',
-    shortcut: '/placeholder-logo.png',
-    apple: '/placeholder-logo.png',
+    icon: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2026-04-16_13-13-53-hqZRQFrU046DBgoBoXIFAZl2PsVujZ.jpg',
+    shortcut: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2026-04-16_13-13-53-hqZRQFrU046DBgoBoXIFAZl2PsVujZ.jpg',
+    apple: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2026-04-16_13-13-53-hqZRQFrU046DBgoBoXIFAZl2PsVujZ.jpg',
   },
 }
 
